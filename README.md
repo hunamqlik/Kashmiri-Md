@@ -26,7 +26,7 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
   
 --- 
 
-<a><img src='https://i.ibb.co/YBgqsR7b/lordali.jpg'></a>
+
 
 <a><img src='https://i.ibb.co/YBgqsR7b/lordali.jpg'/></a>
 
@@ -216,4 +216,3 @@ THANK YOU TOHID, JAWAD, KERM & YOU SUPPORTERS
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ------
-

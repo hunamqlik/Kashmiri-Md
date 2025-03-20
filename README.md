@@ -3,11 +3,11 @@
 
 
   <p align="center">
-<a href="https://github.com/mrfrank-ofc/followers"><img title="Followers" src="https://img.shields.io/github/followers/itx-alii-raza?color=blue&style=flat-square"></a>
-<a href="https://github.com/itx-alii-raza/ALI-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/itx-alii-raza/ALI-MD?color=blue&style=flat-square"></a>
-<a href="https://github.com/itx-alii-raza/ALI-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/itx-zoraib-
+<a href="[https://github.com/mrfrank-ofc/followers](https://github.com/hunamqlik/Kashmiri-Md)"><img title="Followers" src="[https://img.shields.io/github/followers/itx-alii-raza?color=blue&style=flat-square](https://github.com/hunamqlik/Kashmiri-Md)"></a>
+<a href="[https://github.com/itx-alii-raza/ALI-MD/stargazers/](https://github.com/hunamqlik/Kashmiri-Md)"><img title="Stars" src="[https://img.shields.io/github/stars/itx-alii-raza/ALI-MD?color=blue&style=flat-square](https://github.com/hunamqlik/Kashmiri-Md)"></a>
+<a href="[https://github.com/itx-alii-raza/ALI-MD/network/members](https://github.com/hunamqlik/Kashmiri-Md)"><img title="Forks" src="https://img.shields.io/github/forks/itx-zoraib-
 -MD?color=blue&style=flat-square"></a>
-<a href="https://github.com/itx-alii-raza/ALI-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/itx-alii-raza/ALI-MD?style=flat-square&color=black"></a>
+<a href="[[https://github.com/itx-alii-raza/ALI-MD/](https://github.com/hunamqlik/Kashmiri-Md)](https://github.com/hunamqlik/Kashmiri-Md)"><img title="Size" src="https://img.shields.io/github/repo-size/itx-alii-raza/ALI-MD?style=flat-square&color=black"></a>
 <a href="https://github.com/itx-alii-raza/ALI-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
